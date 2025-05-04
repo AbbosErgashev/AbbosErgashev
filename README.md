@@ -2,17 +2,17 @@
   <img height="180" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub logo"/>
 </div>
 
-<div align="center"style="margin-top: 25px;>
-<a href="https://linkedin.com/in/eaxusniddinovich/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-  <a href="mailto:eaxusniddinovich@gmail.com" target="_blank">
+<div align="center" style="margin-top: 25px;">
+  <a href="https://www.linkedin.com/in/eaxusniddinovich/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:eaxusniddinovich@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/eaxusniddinovich" target="_blank">
+  <a href="https://t.me/eaxusniddinovich" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/eaxusniddinovich/" target="_blank">
+  <a href="https://www.instagram.com/eaxusniddinovich/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
